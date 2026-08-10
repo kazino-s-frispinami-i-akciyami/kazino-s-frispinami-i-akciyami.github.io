@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-frispinami-i-akciyami.github.io
+Sitemap: https://kazino-s-frispinami-i-akciyami.github.io/sitemap.xml
